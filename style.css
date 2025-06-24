@@ -34,7 +34,7 @@ body {
 }
 
 .spacer-bottom {
-  height: 20vh;
+  height: 10vh;
 }
 
 .zoom-section {
@@ -486,8 +486,8 @@ h2 {
   .Lederstuhl .bild,
   .Glasstuhl .bild {
     width: 100%;
-    max-width: 400px;
-    min-width: 200px;
+    max-width: 700px;
+    min-width: 500px;
     height: auto;
     margin: 0 0 24px 0;
     display: block;
